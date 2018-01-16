@@ -1,5 +1,5 @@
 # JSON-exercise
-****
+
 ### The Data
 + Projects funded by the World Bank
 + Data source: http://jsonstudio.com/resources/
